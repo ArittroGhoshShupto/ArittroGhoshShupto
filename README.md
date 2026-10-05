@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+
 <p align="center">
-  <img src="Banner.png" width="100%"/>
+  <img src="banner.png" width="100%"/>
 </p>
 
 # 👋 Hi, I'm Arittro Ghosh Shupto
@@ -76,26 +77,27 @@ An interactive application for exploring different web technologies, viewing det
 
 ## 🌐 Live Projects
 
-- 🔗 [Live Project 1: FitLog](https://assignment-6.netlify.app)
-- 🔗 [Live Project 2: Dev Stack Builder](https://superb-pixivier-3d3fde.netlify.app)
+- 🔗 [Live Project 1: FitLog](https://assignment-6new.netlify.app/ )
+- 🔗 [Live Project 2: Dev Stack Builder]( https://superb-pithivier-3d53de.netlify.app/)
+-
 
 ---
 
 ## 🔗 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://www.facebook.com/share/18pfXMb74U/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/arittro_ghosh" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arittro-ghosh-shupto-03591a341" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:Shuptoghosh@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
