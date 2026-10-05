@@ -79,7 +79,7 @@ An interactive application for exploring different web technologies, viewing det
 
 - 🔗 [Live Project 1: FitLog](https://assignment-6new.netlify.app/ )
 - 🔗 [Live Project 2: Dev Stack Builder]( https://superb-pithivier-3d53de.netlify.app/)
--
+
 
 ---
 
