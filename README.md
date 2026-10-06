@@ -5,7 +5,7 @@
   <img src="banner.png" width="100%"/>
 </p>
 
-# 👋 Hi, I'm Arittro Ghosh Shupto
+# I'm Arittro Ghosh Shupto
 
 ### 💻 CSE Student | Frontend Developer
 
